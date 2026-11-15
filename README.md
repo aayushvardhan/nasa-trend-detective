@@ -5,6 +5,7 @@ A web app that answers three questions about a NASA climate variable in a region
 It also forecasts the next 1-3 years and checks the forecast against a simple baseline.
 
 **Live app:** https://nasa-trend-detective-itdbujti7hh7btjnyuyk7k.streamlit.app/
+**Demo slides:** [PDF](docs/Climate_Trend_Detective.pdf)
 **Built for:** NASA Space Apps Challenge 2026 (Earth science trend-detection challenge)
 **Author:** Aayush Vardhan
 
