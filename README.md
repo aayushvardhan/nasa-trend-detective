@@ -4,9 +4,9 @@ A web app that answers three questions about a NASA climate variable in a region
 **what is changing, by how much, and is the change statistically significant?**
 It also forecasts the next 1-3 years and checks the forecast against a simple baseline.
 
-**Live app:** <your-streamlit-link>
+**Live app:** https://nasa-trend-detective-itdbujti7hh7btjnyuyk7k.streamlit.app/
 **Built for:** NASA Space Apps Challenge 2026 (Earth science trend-detection challenge)
-**Author:** <your-name>
+**Author:** Aayush Vardhan
 
 ![Significant trend example](docs/trend_significant.png)
 *Precipitation in the Indo-Gangetic Plain, 1985-2024: both tests agree the trend is significant. See the caveat under Limitations.*
